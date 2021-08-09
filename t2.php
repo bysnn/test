@@ -6,3 +6,6 @@ echo 1+2;
 $a = [1, 2, 3];
 print_r($a);
 
+//dev edit t2.php
+$c = "hello, world";
+
