@@ -10,3 +10,4 @@ $b = max(10, 20);
 echo "results:\n";
 echo $a, $b;
 
+$c = max(1, 3); //dev
